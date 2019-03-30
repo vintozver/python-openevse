@@ -102,7 +102,7 @@ import urllib.request
 import urllib.error
 import urllib.parse
 
-_version = '0.4'
+_version = '0.6'
 
 states = {
     0: 'unknown',
